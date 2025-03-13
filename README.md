@@ -31,16 +31,6 @@ Start both frontend and backend simultaneously:
 npm run dev
 
 
-📂 Folder Structure  
-
-/your-project
-  ├── frontend   # React App
-  ├── backend    # Node.js Server
-  ├── .gitignore
-  ├── README.md
-  ├── package.json
-
-
 🎨 Tech Stack  
 - **Frontend:** React, HTML, CSS  
 - **Backend:** Node.js, Express  
