@@ -14,12 +14,14 @@ A minimalistic, retro-themed app that converts hand-drawn math problems into tex
 Frontend (React)
 
 cd frontend
+
 npm install
 
 
 Backend (Node.js)
 
 cd ../backend
+
 npm install
 
 3️⃣ Run the App  
